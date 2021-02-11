@@ -35,6 +35,8 @@ sudo apt-get install qttools5-dev-tools
 
 ![](https://media.giphy.com/media/QOCSFTGfNxwRpaNWtR/giphy.gif)
 
+<img src="https://media.giphy.com/media/QOCSFTGfNxwRpaNWtR/giphy.gif" width="100%">
+
 ![](https://media.giphy.com/media/RKcGl8ueH9q4DevxMN/giphy.gif)
 ---
 ## Contato
