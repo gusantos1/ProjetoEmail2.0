@@ -33,9 +33,9 @@ sudo apt-get install qttools5-dev-tools
 ---
 # Telas de execução
 
-![](https://media.giphy.com/media/blfZL2w9M2RQEXTRcE/giphy.gif)
+![](https://media.giphy.com/media/QOCSFTGfNxwRpaNWtR/giphy.gif)
 
-![](https://media.giphy.com/media/hEPEjLLybXXHa8epBt/giphy.gif)
+![](https://media.giphy.com/media/RKcGl8ueH9q4DevxMN/giphy.gif)
 ---
 ## Contato
 *Quer trocar uma idéia, ficou com alguma dúvida ou tem algo que eu posso te ajudar ? Quer mandar **joooobs** :dollar: ? **Fique a vontade!** :wink:*
