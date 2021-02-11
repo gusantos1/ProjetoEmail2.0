@@ -47,6 +47,3 @@ sudo apt-get install qttools5-dev-tools
 <img src="https://github.com/gusantos1/icons/blob/main/010-linkedin.svg" width="20" height="20"> |*gusantosdev*
 
 ---
-
-
-# ProjetoEmail2.0
